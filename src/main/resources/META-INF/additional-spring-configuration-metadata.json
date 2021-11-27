@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "addr",
+      "type": "java.lang.String",
+      "description": "Description for addr."
+    },
+    {
+      "name": "secnet.upgrade.appid",
+      "type": "java.lang.String",
+      "description": "Description for secnet.upgrade.appid."
+    },
+    {
+      "name": "secnet.upgrade.appkey",
+      "type": "java.lang.String",
+      "description": "Description for secnet.upgrade.appkey."
+    },
+    {
+      "name": "secnet.upgrade.msgtopic",
+      "type": "java.lang.String",
+      "description": "Description for secnet.upgrade.msgtopic."
+    }
+  ] }
